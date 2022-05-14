@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ButtonMenu
+comment0.text=\r\n\ Button\ Menu\ is\ an\ object\ that\ you\ can\ add\ to\ the\ world.\ It\ accepts\ an\ array\ of\ buttons\ and\ displays\ them\ as\ a\ drop\ down\ menu.\ Different\ menus\ should\ be\ \r\n\ created\ for\ different\ drop\ down\ menus\r\n\ \r\n\ @author\ Alex\ Li\r\n\ @version\ 1.0\r\n
+comment1.params=buttons
+comment1.target=ButtonMenu(Button[])
+comment1.text=\r\n\ Creates\ a\ ButtonMenu\ out\ of\ an\ array\ of\ buttons\r\n\ @param\ buttons\ \ \ \ \ \ \ The\ array\ of\ buttons\ to\ be\ added\ to\ the\ ButtonMenu\r\n
+comment2.params=Xpos
+comment2.target=void\ showButtons(int)
+comment2.text=\r\n\ Shows\ the\ buttons\ in\ the\ buttonArr\ as\ a\ drop\ down\ menu\ at\ a\ specific\ x-coordinate\r\n\ @param\ Xpos\ \ \ \ \ \ \ \ \ \ The\ Xpos\ where\ you\ want\ the\ buttonMenu\ to\ start\r\n
+comment3.params=Xpos\ Ypos
+comment3.target=void\ showButtons(int,\ int)
+comment3.text=\r\n\ Shows\ the\ buttons\ in\ the\ buttonArr\ as\ a\ drop\ down\ menu\ at\ a\ specific\ x\ and\ y\ coordinate\r\n\ @param\ Xpos\ \ \ \ \ \ \ \ \ \ The\ x-coordinate\ where\ you\ want\ the\ buttonMenu\ to\ start\r\n\ @param\ Ypos\ \ \ \ \ \ \ \ \ \ The\ y-coordinate\ where\ you\ want\ the\ buttonMenu\ to\ start\r\n
+comment4.params=
+comment4.target=void\ removeButtons()
+comment4.text=\r\n\ Removes\ the\ buttons\ from\ the\ world\r\n
+numComments=5

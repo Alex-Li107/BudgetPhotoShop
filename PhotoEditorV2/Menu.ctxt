@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Its\ the\ 1155\ by\ 25\ grey\ bar\ on\ top\ of\ the\ world.\ It\ is\ in\ its\ own\ class\ so\ that\ when\ the\ image\ is\ dragged\ over\ the\ grey\ bar,\ it\ will\ not\ cover\ it\r\n\ \r\n\ @author\ Alex\ Li\r\n\ @version\ 0.2\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Creates\ a\ 1155\ by\ 25\ grey\ bar\r\n
+numComments=2

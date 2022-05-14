@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=WorkSpace
+comment0.text=\r\n\ \:)\r\n\ \r\n\ @author\ Alex\ Li\ \r\n\ @version\ May\ 14\ 2020\r\n
+comment1.params=
+comment1.target=WorkSpace()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkMouse()
+comment4.params=
+comment4.target=void\ openFile()
+comment4.text=\r\n\ Allows\ the\ user\ to\ open\ a\ new\ image\ file.\r\n
+comment5.params=
+comment5.target=void\ save()
+comment5.text=\r\n\ Saves\ the\ image\ with\ its\ current\ name\ and\ file\ extension\r\n
+comment6.params=
+comment6.target=void\ saveAs()
+comment6.text=\r\n\ Allows\ the\ user\ to\ save\ the\ image\ as\ a\ new\ file\ with\ a\ custom\ name\ as\ either\ a\ png\ or\ jpg.\r\n
+comment7.params=bi
+comment7.target=java.awt.image.BufferedImage\ makeJpg(java.awt.image.BufferedImage)
+comment7.text=\r\n\ Removes\ the\ alpha\ layer\ of\ a\ BufferedImage\r\n\ @param\ bi\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ image\ that\ you\ want\ the\ alpha\ layer\ to\ be\ removed\ from\r\n\ @return\ BufferedImage\ \ \ \ The\ BufferedImage\ without\ its\ alpha\ layer\r\n
+numComments=8
